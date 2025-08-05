@@ -49,3 +49,14 @@ This approach ensures consistent, polite, and effective responses to customer em
 
 ---
 
+## 🧪 Example Output
+
+### 📨 Original Customer Email
+
+![Customer Email](customer_email.png)
+
+---
+
+### 🤖 AI-Generated Response
+
+![AI Response](AI_response.png)
